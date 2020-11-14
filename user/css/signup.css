@@ -1,0 +1,66 @@
+
+
+.bt{
+	margin-left:50px;
+}
+
+
+
+.fm{
+	color:white;
+	border-color:aqua;
+	border-style:outset;
+	border-right-style: dotted solid double dashed;
+	border-left-style: dotted;
+	background: black;
+	display:inline-block;
+	padding:10px;
+	margin-left:70px;
+	margin-top:20px;
+
+	
+
+}
+
+.fl{
+	float:left;
+	padding:5px;
+}
+
+.hd{
+ font-size: 26px;
+}
+
+h1{
+	text-shadow: 6px 6px #00ff00;
+	writing-mode: vertical-lr;
+	float:left;
+	letter-spacing: 50px;
+	font-size: 70px;
+}
+
+.ty{
+	margin-left:300px;
+}
+
+.po{
+	padding:10px;
+}
+
+
+
+
+.profiles{
+	border:2px solid #ff3300;
+	border-radius:50%;
+	margin-bottom: 700px;
+	margin-left:60px;
+
+}
+.ip{
+	font-size:30px;
+	margin-bottom:10px;
+	margin-left:70px;
+}
+
+
