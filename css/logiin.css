@@ -1,0 +1,54 @@
+
+
+.profile{
+  margin-left:30px;
+}
+
+.bt{
+  margin-left:20px;
+}
+
+.dm{
+  margin-left:120px;
+}
+
+.dx{
+  margin-left:400px;
+  box-shadow: 2px 2px 4px 4px #00ff00;
+  display: inline-block;
+  padding:10px;
+  margin-top:10px;
+}
+
+.fc{
+  border:2px solid black;
+  border-radius:50%;
+  margin-left:100px;
+  margin-top: 10px;
+}
+
+.ui{
+  font-weight:bold;
+  font-family:ink;
+}
+
+.ux{
+  font-size: 30px;
+  font-weight:bold;
+  font-family: Segoe Print;
+}
+
+.xc{
+  text-align:center;
+}
+
+.gt{
+  float:right;
+}
+
+.log{
+  background-color: #ccffff;
+}
+
+
+
