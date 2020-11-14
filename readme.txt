@@ -15,7 +15,7 @@ password- 123456
 
 ##SCREENSHOTS OF THE PROJECT
 
-![adminviewproductpage](https://user-images.githubusercontent.com/72239452/99136939-c129a000-264d-11eb-8457-dabdb6a77978.png)
+
 
 
 
